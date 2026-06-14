@@ -2,7 +2,7 @@
   "name": "Disable Lock Screen Media Controls",
   "description": "Removes the lock screen media controls GNOME 49 introduced with no way to disable.",
   "uuid": "disable-lockscreen-media@miro011.github.com",
-  "shell-version": ["49"],
-  "version": 2,
+  "shell-version": ["49", "50"],
+  "version": 3,
   "url": "https://github.com/miro011/gnome-extension-disable-lockscreen-media-controls"
 }
